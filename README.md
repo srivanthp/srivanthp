@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @srivanthp
-- 👀 I’m interested in networkingd
+- 👀 I’m interested in networking and cybersecurity
 - 🌱 I’m currently learning python
 
 <!---
