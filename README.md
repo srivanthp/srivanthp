@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @srivanthp
 - 👀 I’m interested in networking and cybersecurity
-- 🌱 I’m currently learning python
+- 🌱 just a random guy who loves networking and music...
 
 <!---
 srivanthp/srivanthp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
